@@ -1,0 +1,46 @@
+#formGroupSearch
+{
+  position: relative;
+  margin-bottom: 30px;
+}
+
+#buttonSearch
+{
+  border: 1px solid transparent;
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: transparent;
+}
+
+#divResults > div
+{
+  margin-top: 15px;
+}
+
+.spanStars
+{
+  float: right;
+}
+
+.glyphicon-star
+{
+  color: #f3f300;
+}
+
+.glyphicon-star.empty
+{
+  color: #bbb;
+}
+
+.divLinks > a
+{
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.divLinks > a:last-child
+{
+  margin-right: 0;
+}
