@@ -6,8 +6,8 @@ Check it out [here](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.htm
 
 Plus a few examples:
 
-[In Bruges](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.html?search=In+Bruges)
-[Citizen Kane](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.html?search=Citizen+Kane)
+[In Bruges](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.html?search=In+Bruges)  
+[The Godfather](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.html?search=The+Godfather)  
 [Immaturity for Charity](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.html?search=Immaturity+for+Charity)
 
 Disclaimer: The API used here is pretty slow and only returns one result at a time. If you know of a better API for film data please let me know.
