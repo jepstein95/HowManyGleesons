@@ -6,7 +6,7 @@ Check it out [here](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.htm
 
 Plus a few examples:
 
-[In Bruges](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.html?search=In+Bruges)  
+[Calvary](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.html?search=Calvary)  
 [The Godfather](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.html?search=The+Godfather)  
 [Immaturity for Charity](https://s3.us-west-2.amazonaws.com/howmanygleesons/index.html?search=Immaturity+for+Charity)
 
